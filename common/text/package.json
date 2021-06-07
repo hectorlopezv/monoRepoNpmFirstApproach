@@ -1,0 +1,13 @@
+{
+  "name": "@compensar/text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "build-watch": "webpack --config webpack.prod.js --watch"
+  },
+  "keywords": [],
+  "author": "hector vinicio lopez molinares",
+  "license": "ISC"
+}
